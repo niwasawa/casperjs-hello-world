@@ -1,0 +1,14 @@
+{
+  "name": "casperjs-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World of CasperJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/casperjs/bin/casperjs index.js"
+  },
+  "author": "niwasawa",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  }
+}
